@@ -1,0 +1,25 @@
+{
+  "name": "aelf-studio",
+  "displayName": "aelf-studio",
+  "description": "A collection of useful extensions for aelf smart contracts.",
+  "publisher": "aelf-developers",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "ms-dotnettools.csdevkit",
+    "aelf-developers.aelf-contract-build"
+  ],
+  "devDependencies": {
+    "@commitlint/cli": "^19.4.1",
+    "@commitlint/config-conventional": "^19.4.1",
+    "husky": "^9.1.5"
+  },
+  "scripts": {
+    "prepare": "husky"
+  }
+}
