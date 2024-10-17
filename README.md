@@ -88,5 +88,5 @@ The AI Auditing feature scans your smart contracts for security vulnerabilities 
 
 ## Support
 
-For issues or questions, please visit our [GitHub repository](https://github.com/yongenaelf/vscode-aelf-studio) or raise a ticket in the issues section.
+For issues or questions, please visit our [GitHub repository](https://github.com/AElfProject/vscode-aelf-studio) or raise a ticket in the issues section.
 
