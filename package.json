@@ -14,6 +14,7 @@
     "ms-dotnettools.csdevkit",
     "aelf-developers.aelf-contract-build"
   ],
+  "icon": "images/icon.png",
   "devDependencies": {
     "@commitlint/cli": "^19.4.1",
     "@commitlint/config-conventional": "^19.4.1",
