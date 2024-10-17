@@ -22,5 +22,13 @@
   },
   "scripts": {
     "prepare": "husky"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/AElfProject/vscode-aelf-studio/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AElfProject/vscode-aelf-studio.git"
+  },
+  "homepage": "https://github.com/AElfProject/vscode-aelf-studio/blob/main/README.md"
 }
